@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, database, python, software development, UX and UI design 
 - 🌱 I’m currently learning python programming 
 - 💞️ I’m looking to collaborate on data science, python 
-- 📫 How to reach me on jeziama@yahoo.com
+- 📫 How to reach me on ezijoyamadi@gmail.com
 
 <!---
 jezina/jezina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
